@@ -1,2 +1,5 @@
-# fieldnotes-site-2195-a9c3
-Atlas Field Notes static site (Jekyll).
+# Atlas Field Notes
+
+Static (Jekyll) site for the Atlas research group.  The catalogue of papers,
+benchmarks and systems lives in the `_catalog` collection: one Markdown file
+per item, with YAML front matter.

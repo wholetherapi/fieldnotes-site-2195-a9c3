@@ -1,0 +1,7 @@
+title: Atlas Field Notes
+description: Notes from the field: benchmarks, papers and systems we build.
+baseurl: ""
+markdown: kramdown
+collections:
+  catalog:
+    output: true
